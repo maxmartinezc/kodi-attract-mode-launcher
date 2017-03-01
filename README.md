@@ -1,4 +1,4 @@
-# Kodi Attract-Mode Launcher
+# Kodi Attract-Mode Launcher (unofficial)
 Add-on for Kodi launches Attract-Mode front end on windows and linux.
 Require Kodi v17 (Krypton) or later.
 
