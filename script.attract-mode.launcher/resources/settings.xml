@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32006">
+        <setting id="windowsExecutable" label="32007" type="executable" default="C:\Program Files (x86)\Attract-Mode\attract.exe" />
+        <setting id="linuxExecutable" label="32008" type="executable" default="/usr/games/attract" />
+    </category>
+</settings>

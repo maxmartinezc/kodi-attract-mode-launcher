@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kodi.attract-mode.launcher" name="Attract-Mode Launcher" version="1.0" provider-name="Manuteko">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>linux windx</platform>
+		<summary lang="en">Kodi Launches Attract-Mode</summary>		
+		<description lang="en">Unofficial add-on to launch Attract-Mode at Kodi.[CR]Attract-Mode is a cross-platform graphical front-end for emulators with controller navigation.[CR]Install and configure Attract-Mode before using this launcher, for instructions and downloads, go to http://attractmode.org/</description>		
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<language>en</language>
+		<source>https://github.com/maxmartinezc/kodi-attract-mode-launcher/</source>
+		<website>https://github.com/maxmartinezc/kodi-attract-mode-launcher/blob/master/README.md#kodi-attract-mode-launcher</website>
+		<forum></forum>
+		<email>max.martinez.c@gmail.com</email>
+		<news></news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/theme-cools1.png</screenshot>
+			<screenshot>resources/theme-cools2.png</screenshot>
+			<screenshot>resources/theme-attracman.png</screenshot>			
+			<screenshot>resources/screenshot-selected.png</screenshot>
+			<screenshot>resources/screenshot-settings.png</screenshot>
+		</assets>
+	</extension>
+</addon>
