@@ -18,14 +18,14 @@
 		<email>max.martinez.c@gmail.com</email>
 		<news></news>
 		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/theme-cools1.png</screenshot>
-			<screenshot>resources/theme-cools2.png</screenshot>
-			<screenshot>resources/theme-attracman.png</screenshot>			
-			<screenshot>resources/screenshot-selected.png</screenshot>
-			<screenshot>resources/screenshot-info.png</screenshot>
-			<screenshot>resources/screenshot-settings.png</screenshot>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/media/theme-cools1.png</screenshot>
+			<screenshot>resources/media/theme-cools2.png</screenshot>
+			<screenshot>resources/media/theme-attracman.png</screenshot>			
+			<screenshot>resources/media/screenshot-selected.png</screenshot>
+			<screenshot>resources/media/screenshot-info.png</screenshot>
+			<screenshot>resources/media/screenshot-settings.png</screenshot>
 		</assets>
 	</extension>
 </addon>
