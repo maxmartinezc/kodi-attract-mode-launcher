@@ -24,6 +24,7 @@
 			<screenshot>resources/theme-cools2.png</screenshot>
 			<screenshot>resources/theme-attracman.png</screenshot>			
 			<screenshot>resources/screenshot-selected.png</screenshot>
+			<screenshot>resources/screenshot-info.png</screenshot>
 			<screenshot>resources/screenshot-settings.png</screenshot>
 		</assets>
 	</extension>
